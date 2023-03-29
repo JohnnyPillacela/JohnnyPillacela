@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=JohnnyPillacela&theme=nord&show_icons=true">
-    DOCS: https://github.com/anuraghazra/github-readme-stats
+<!--     DOCS: https://github.com/anuraghazra/github-readme-stats -->
 </p>
